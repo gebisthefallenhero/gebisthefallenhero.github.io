@@ -1,4 +1,4 @@
-# Manuel's Github Reposity
+# My Repositories
 
 Here we have cool links to my computational math prodjects and my machine learning prodjects.
 
